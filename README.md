@@ -1,6 +1,6 @@
 ## 🖤 Lucaisfirst's Profile 🖤
 
-**Hi there 👋 I'm Hajin Kim**
+**Hi there 👋 I'm Hajin Kim** <br>
 Engineer, Coder, Artist, Startup CEO, PM..
 
 ![lucaisfisrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaisfirst&show_icons=true)
