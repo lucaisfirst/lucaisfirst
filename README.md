@@ -1,7 +1,7 @@
 ## 🖤 Lucaisfirst's Profile 🖤
 
 **Hi there 👋 I'm Hajin Kim** <br>
-[MARQVISION](https://www.marqvision.com/kr/home) Data Operation Intern <br>
+[MARQVISION](https://www.marqvision.com/kr/home) Data Operation<br>
 Engineer, NFT, Coder, Startup CEO, PM...
 
 ![lucaisfisrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaisfirst&show_icons=true)
