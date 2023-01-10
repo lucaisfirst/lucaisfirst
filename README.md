@@ -1,6 +1,6 @@
 ## 🖤 Lucaisfirst's Profile 🖤
 
-**Hi there 👋 I'm Hajin Kim** <br>
+**I'm Hajin Kim** <br>
 [MARQVISION](https://www.marqvision.com/kr/home) Data Operation<br>
 Engineer, NFT, Coder, Startup CEO, PM...
 
